@@ -3,7 +3,7 @@
 Bu proje, **Crime Data from 2020 to Present** veri setini kullanarak suç verilerini analiz etmeyi amaçlar. Proje boyunca, eksik verileri işleme, verileri ölçeklendirme ve farklı makine öğrenmesi algoritmaları kullanılarak sınıflandırma ve kümeleme işlemleri gerçekleştirilmiştir.
 
 ## Kaggle Projesi
-Bu projeye **Kaggle** üzerinden de ulaşabilirsiniz: [Kaggle Proje Linki](https://www.kaggle.com/code/miraytepe/crime-data-machine-learning-model)
+Bu projeye **Kaggle** üzerinden de ulaşabilirsiniz: [Crime Data Machine Learning Model](https://www.kaggle.com/code/miraytepe/crime-data-machine-learning-model)
 
 ## İçindekiler
 - [Veri Seti](#veri-seti)
@@ -16,7 +16,7 @@ Bu projeye **Kaggle** üzerinden de ulaşabilirsiniz: [Kaggle Proje Linki](https
 ## Veri Seti
 Proje, Kaggle'dan alınan **Crime Data Machine Learning Model** veri setini kullanmaktadır.
 
-**Veri setine buradan ulaşabilirsiniz**: [Crime Data Machine Learning Model](https://www.kaggle.com/datasets/candacegostinski/crime-data-analysis)
+**Veri setine buradan ulaşabilirsiniz**: [Crime Data Analysis](https://www.kaggle.com/datasets/candacegostinski/crime-data-analysis)
 
 ## Proje Adımları
 
